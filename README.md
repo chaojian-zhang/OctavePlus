@@ -8,6 +8,10 @@ Lighter, faster, and slimmer.
 
 Interface effects (console contents) configurable through `Scripts.txt` for your ideal application type.
 
+## Setup
+
+Requires [.Net 6 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0), Windows only.
+
 ## Usage
 
 Double-click Octave+.exe to run, move mouse cursor to stop application.
