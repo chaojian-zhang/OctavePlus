@@ -14,4 +14,4 @@ Requires [.Net 6 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ## Usage
 
-Double-click Octave+.exe to run, move mouse cursor to stop application.
+Double-click **Octave+.exe** to run, move mouse cursor to stop application.
