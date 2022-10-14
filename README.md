@@ -14,4 +14,6 @@ Requires [.Net 6 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ## Usage
 
-Double-click **Octave+.exe** to run, move mouse cursor to stop application.
+1. Download [latest release](https://github.com/chaojian-zhang/OctavePlus/releases/tag/v1.0), unzip into a custom folder
+2. Double-click **Octave+.exe** to run, move mouse cursor to stop application.
+3. Download alternative sample scripts [here](https://github.com/chaojian-zhang/OctavePlus/tree/master/AlternativeScripts)
