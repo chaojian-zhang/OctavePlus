@@ -1,0 +1,22 @@
+patient_data = csvread('data/inflammation-01.csv');
+data/inflammation-01.csv
+pwd
+C:\work
+disp(['Analyzing "inflammation-01.csv": '])
+inflammation-01.csv
+disp(['Maximum inflammation: ', num2str(max(patient_data(:)))]);
+Maximum inflammation: 20
+disp(['Minimum inflammation: ', num2str(min(patient_data(:)))]);
+Minimum inflammation: 0
+disp(['Standard deviation: ', num2str(std(patient_data(:)))]);
+Standard deviation: 4.6148
+ave_inflammation = mean(patient_data, 1);
+Average inflammation
+figure('visible', 'off')
+figure
+plot(ave_inflammation);
+plot
+ylabel('average')
+average
+close()
+done
