@@ -5,3 +5,7 @@ Inspired by Professional Engineer Delin Mu's [Precision Strike](https://github.c
 Lighter, faster, and slimmer.
 
 Interface effects (console contents) configurable through `Scripts.txt` for your ideal application type.
+
+## Usage
+
+Double-click Octave+.exe to run, move mouse cursor to stop application.
